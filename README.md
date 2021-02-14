@@ -18,6 +18,6 @@ In this notebook I have tried to implement techniques related to Natural Languag
 1) Extract information from the existing tweets - Number of hashtags, Number of captital words
 2) Converting abbreviations to complete words
 3) Data Cleaning - removing punctuation marks, removing stopwords, removing numbers
-4) Stemming
-5) TF-IDF
-6) Model
+4) Lemmatization
+5) Count Vectorizer
+6) MultinomialNB & NN
